@@ -1,0 +1,16 @@
+div {
+	text-align: center;
+	overflow: hidden;
+	border: 10px dashed maroon;
+    width: 500px;
+    font-family: cursive;
+}
+#wanted {
+    color: maroon;
+    border: 3px solid maroon;
+}
+#credit {
+    border: 2px dashed maroon;
+    width: 50%;
+    text-align: center;
+}
